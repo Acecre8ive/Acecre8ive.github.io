@@ -43,27 +43,27 @@
               <a class="nav-link active" href="\">Home</a>
             </li>
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="about.php" id="dropdown04" data-toggle="dropdown"
+              <a class="nav-link dropdown-toggle" href="about" id="dropdown04" data-toggle="dropdown"
                 aria-haspopup="true" aria-expanded="false">About</a>
               <div class="dropdown-menu" aria-labelledby="dropdown04">
-                 <a class="dropdown-item" href="about.php">About Us</a>
-                <a class="dropdown-item" href="meet.php">Meet The Team</a>
+                 <a class="dropdown-item" href="about">About Us</a>
+                <a class="dropdown-item" href="meet">Meet The Team</a>
             </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="services.php" id="dropdown04" data-toggle="dropdown"
                 aria-haspopup="true" aria-expanded="false">Services</a>
               <div class="dropdown-menu" aria-labelledby="dropdown04">
-                <a class="dropdown-item" href="branding.php">Branding</a>
-                <a class="dropdown-item" href="marketing.php">Digital Marketing</a>
-                <a class="dropdown-item" href="social-media.php">Social Media</a>
-                <a class="dropdown-item" href="PR.php">Public Relations</a>
+                <a class="dropdown-item" href="branding">Branding</a>
+                <a class="dropdown-item" href="marketing">Digital Marketing</a>
+                <a class="dropdown-item" href="social-media">Social Media</a>
+                <a class="dropdown-item" href="PR">Public Relations</a>
               </div>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="portfolio.php">Our Works</a>
+              <a class="nav-link" href="portfolio">Our Works</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="contact.php">Contact</a>
+              <a class="nav-link" href="contact">Contact</a>
             </li>
           </ul>
 
