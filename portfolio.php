@@ -17,14 +17,14 @@
       
       <div class="row">
         <div class="col-lg-6">
-          <a href="branding.html" class="work-thumb">
+          <a href="branding" class="work-thumb">
             <div class="work-text">
               <h2>BRANDING</h2>
               <p>Branding, Logo design, Voice & Positioning</p>
             </div>
             <img src="images/business-branding.jpg" alt="Image" class="img-fluid">
           </a>
-          <a href="PR.html" class="work-thumb">
+          <a href="PR" class="work-thumb">
             <div class="work-text">
               <h2>PR & COMMUNICATIONS</h2>
               <p>Press Releases, Publications, Events, Buzz Generation, Advertising</p>
@@ -33,14 +33,14 @@
           </a>
         </div>
         <div class="col-lg-6">
-          <a href="social-media.html" class="work-thumb">
+          <a href="social-media" class="work-thumb">
             <div class="work-text">
               <h2>SOCIAL MEDIA</h2>
               <p>Social Media Management, Social Media Campaigns, Social Ads, Social Content</p>
             </div>
             <img src="images/merakist-CNbRsQj8mHQ-unsplash (1).jpg" alt="Image" class="img-fluid">
           </a>
-          <a href="marketing.html" class="work-thumb">
+          <a href="marketing" class="work-thumb">
             <div class="work-text">
               <h2>DIGITAL MARKETING</h2>
               <p>Digital Ads, SEO, Website Traffic</p>
