@@ -1,7 +1,7 @@
 <?php include('components/header.php');?>
 
   <div class="inner-page">
-    <div class="slider-item overlay" style="background-image: url('images/luca-bravo-9l_326FISzk-unsplash.jpg');"
+    <div class="slider-item overlay" style="background-image: url('images/carson-masterson-tdrxKGo5zoY-unsplashnew.jpg');"
       data-stellar-background-ratio="0.5">
       <div class="container">
         <div class="row slider-text align-items-center justify-content-center">
@@ -29,7 +29,7 @@
               <h2>PR & COMMUNICATIONS</h2>
               <p>Press Releases, Publications, Events, Buzz Generation, Advertising</p>
             </div>
-            <img src="images/work_4.jpg" alt="Image" class="img-fluid">
+            <img src="images/PUBLIC-RELATIONS-AND-STRATEGIC-COMMUNICATIONS-.jpg" alt="Image" class="img-fluid">
           </a>
         </div>
         <div class="col-lg-6">

@@ -1,7 +1,7 @@
 <?php include('components/header.php');?>
 
   <div class="inner-page">
-    <div class="slider-item overlay" style="background-image: url('images/luca-bravo-9l_326FISzk-unsplash.jpg');" data-stellar-background-ratio="0.5">
+    <div class="slider-item overlay" style="background-image: url('images/carson-masterson-tdrxKGo5zoY-unsplashnew.jpg');" data-stellar-background-ratio="0.5">
       <div class="container">
         <div class="row slider-text align-items-center justify-content-center">
           <div class="col-lg-9 text-center col-sm-12 element-animate">
@@ -18,7 +18,16 @@
         <div class="col-lg-5 mr-auto mb-5">
           <span class="divider my-4"></span>
           <h2 class="mb-4 section-title"><strong>ABOUT US</strong></h2>
-          <p>We are the movers and the shakers, the innovators, the rule-breakers, the leaders, the dreamers, and the why-not questioners. We work hard, play hard, love harder. Bettering and enriching the lives of the businesses we help is what we believe in. With our entrepreneurial spirit, we have the heart it takes to put in the work, tears, and copious amounts of coffee to see brands succeed and thrive. We know that not only will we help make the business owners’ dreams come true and improve their quality of life, but we will also improve the lives of their families. Furthermore, the success of the brand will also directly improve the lives of the business’ employees and their families and trickle down like a ripple effect, making an ongoing impact and leaving a mark forever in the universe. </p>
+          <p>We are the movers and the shakers, the innovators, the rule-breakers, 
+          the leaders, the dreamers, and the why-not questioners. We work hard, 
+          play hard, love harder. Bettering and enriching the lives of the businesses we 
+          help is what we believe in. With our entrepreneurial spirit, we have the heart 
+          it takes to put in the work, tears, and copious amounts of coffee to see brands 
+          succeed and thrive. We know that not only will we help make the business owners’ 
+          dreams come true and improve their quality of life, but we will also improve the 
+          lives of their families. Furthermore, the success of the brand will also directly 
+          improve the lives of the business’ employees and their families and trickle down 
+          like a ripple effect, making an ongoing impact and leaving a mark forever in the universe. </p>
           <p class="mb-5">We connect the brands we serve to the consumers they serve. It's what we do, and it's why we do it.  </p>
           <p><a href="contact.html" class="btn btn-outline-black">GET IN TOUCH</a></p>
         </div>

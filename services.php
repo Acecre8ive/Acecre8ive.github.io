@@ -1,7 +1,7 @@
 <?php include('components/header.php');?>
 
   <div class="inner-page">
-    <div class="slider-item overlay" style="background-image: url('images/luca-bravo-9l_326FISzk-unsplash.jpg');"
+    <div class="slider-item overlay" style="background-image: url('images/carson-masterson-tdrxKGo5zoY-unsplashnew.jpg');"
       data-stellar-background-ratio="0.5">
       <div class="container">
         <div class="row slider-text align-items-center justify-content-center">
