@@ -52,7 +52,7 @@
             </div>
             <img src="images/business-branding.jpg" alt="Image" class="img-fluid">
           </a>
-          <a href="PR.html" class="work-thumb">
+          <a href="PR" class="work-thumb">
             <div class="work-text">
               <h2>PR & COMMUNICATIONS</h2>
               <p>Press Releases, Publications, Events, Buzz Generation, Advertising</p>
