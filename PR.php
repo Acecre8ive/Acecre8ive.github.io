@@ -25,7 +25,7 @@
           <p>Our creative agency uses proven traditional methods combined with modern innovative notions to create the future of your brand and deliver results. Let Ace Cre8ive Agency help you communicate your tailored position, personality, voice and values. </p>
           <ul class="list-unstyled mb-5">
           </ul>
-          <p><a href="contact.html" class="btn btn-outline-black ">GET STARTED</a></p>
+          <p><a href="contact" class="btn btn-outline-black ">GET STARTED</a></p>
         </div>
       </div>
       <div class="row">

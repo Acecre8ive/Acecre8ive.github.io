@@ -8,7 +8,7 @@
           <p class="text-white mb-5">We serve brands coast to coast and everywhere in between!.</p>
           <p><strong>We can't wait to hear from you!</strong></p>
             
-          <p class="mb-0"><a href="contact.html" class="btn btn-outline-white px-4 py-3">Get In Touch!</a></p>
+          <p class="mb-0"><a href="contact" class="btn btn-outline-white px-4 py-3">Get In Touch!</a></p>
         </div>
       </div>
 
@@ -50,8 +50,8 @@
         <div class="col-md-3 mb-5">
           <h3 class="mb-4">Quick Links</h3>
           <ul class="list-unstyled footer-link">
-            <li><a href="#">About</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="about">About</a></li>
+            <li><a href="contact">Contact</a></li>
           </ul>
         </div>
         <div class="col-md-3">

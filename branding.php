@@ -25,7 +25,7 @@
           <p>The human experience and connection is at the core of branding. You can only understand people if you can relate to how they feel. A strong sense of empathy towards your target market can allow you to design a better human experience because you intimately understand how your audience finds meaning and belonging in products and services. You’re always selling a deep rooted psychological need. Not your commodity. Everything that is a visual representation of your business, from colors, patterns, images, and fonts, will lead the brain to a psychological connection. Find out who your target market is to find out what they actually want and what resonates with them.</p>
           <ul class="list-unstyled mb-5">
           </ul>
-          <p><a href="contact.html" class="btn btn-outline-black ">GET STARTED</a></p>
+          <p><a href="contact" class="btn btn-outline-black ">GET STARTED</a></p>
         </div>
       </div>
       <div class="row">

@@ -27,7 +27,7 @@
           <p>Ongoing intense research, development, testing, and pivoting to the strategy and best practices drive this process, supplemented by internal, proprietary technology built to add additional, data-backed tenacity.</p>
           <ul class="list-unstyled mb-5">
           </ul>
-          <p><a href="contact.html" class="btn btn-outline-black ">GET STARTED</a></p>
+          <p><a href="contact" class="btn btn-outline-black ">GET STARTED</a></p>
         </div>
       </div>
       <div class="row">
