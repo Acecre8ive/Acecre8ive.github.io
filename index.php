@@ -25,7 +25,7 @@
           <p>We take the reigns (and the worry) on executing the marketing plan and initiatives to help you grow your business and increase revenue; allowing you to focus on the big picture of running your company and it’s daily operations.</p>
          <p>Our team develops and executes strategic marketing campaigns catered to your specific target audience to increase brand awareness and increase revenue. We synchronize the science of consumer behavior with creative “outside the box” ideas and combine that with proven methods of calculated strategy to create a cohesive marketing plan promoting lead generation and customer retention.</p>
          <p>We help you launch your company to the top by offering a full-service marketing strategy utilizing the pillars of content curation, digital marketing, public relations & communications, and social media; all harmoniously integrating with one another to achieve maximum results. </p>
-          <p><a href="about.html" class="btn btn-outline-black">Read More</a></p>
+          <p><a href="about" class="btn btn-outline-black">Read More</a></p>
         </div>
         <div class="col-lg-7">
           <figure class="img-dotted-bg">
